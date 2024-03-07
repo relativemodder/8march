@@ -24,8 +24,7 @@
         class="bg-green-600 text-white 
         font-bold text-4xl min-w-96 p-5 
         text-center rounded-xl
-        active:bg-green-700
-        shadow-xl shadow-green-950" 
+        active:bg-green-700" 
         href={linkPlaceholder}
     >
         Yes!
