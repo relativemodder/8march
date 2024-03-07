@@ -41,7 +41,7 @@ const compliments: Array<Compliment> = [
         icon: ''
     },
     {
-        text: 'woman? Happy 8th March! Would you like to repeat this loop',
+        text: 'Happy 8th March!',
         icon: ''
     }
 ];
