@@ -35,6 +35,10 @@ const compliments: Array<Compliment> = [
     {
         text: '',
         icon: '💙💜'
+    },
+    {
+        text: '',
+        icon: ''
     }
 ];
 

@@ -7,10 +7,10 @@
     let index = $state(0);
 
     function onNext() {
-        index++;
-        if (index == compliments.length) {
-            index = 0;
+        if (index == compliments.length - 1) {
+            return;
         }
+        index++;
     }
 </script>
 
