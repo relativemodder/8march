@@ -2,4 +2,10 @@
     import "../app.css";
 </script>
 
+<svelte:head>
+    <meta name="og:title" content="March 8th" />
+    <meta name="og:desciption" content="Women" />
+    <meta name="og:image" content="/favicon.png" />
+</svelte:head>
+
 <slot />
