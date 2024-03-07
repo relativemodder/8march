@@ -4,7 +4,7 @@
 
     let linkPlaceholder = "#";
 
-    let index = 0;
+    let index = $state(0);
 
     function onNext() {
         index++;
